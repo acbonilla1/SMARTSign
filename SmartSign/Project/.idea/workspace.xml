@@ -23,12 +23,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "last_opened_file_path": "C:/Users/adonn/SmartSign/Project/venv/Home.py"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/adonn/SmartSign/Project/venv/Home.py&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.Home">
     <configuration name="Home" type="PythonConfigurationType" factoryName="Python">
       <module name="Project" />
